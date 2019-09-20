@@ -1,0 +1,27 @@
+﻿  stdafx.cpp
+  CAboutAuthor.cpp
+  CAddChatRoomMember.cpp
+  CAddUser.cpp
+  CChatRecords.cpp
+  CChatRoomMember.cpp
+  CDecryptImage.cpp
+  CFriendList.cpp
+  CFunctions.cpp
+  CInformation.cpp
+  CInjectTools.cpp
+  CMain.cpp
+  CMultiOpen.cpp
+  CMyTableCtrl.cpp
+  CPay.cpp
+  CRoomAnnouncement.cpp
+  CSendChatRoomAt.cpp
+  CSendMsg.cpp
+  CSendRoomMsg.cpp
+  CSendXmlCard.cpp
+  CSetRoomName.cpp
+  正在生成代码...
+  正在编译...
+  WeChatRobot.cpp
+  WeChatRobotDlg.cpp
+  正在生成代码...
+  WeChatRobot.vcxproj -> C:\EDU\program\tools\WeChatRobot-master\源码\WeChatRobot\Debug\WeChatRobot.exe

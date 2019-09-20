@@ -1,0 +1,56 @@
+[0916/114728:INFO:exception_record.cc(518)] [QB]Process ID: 8040 Type: 1
+[0916/114729:INFO:exception_record.cc(518)] [QB]Process ID: 4092 Type: 3
+[0916/114830:INFO:exception_record.cc(518)] [QB]Process ID: 3568 Type: 1
+[0916/114830:INFO:exception_record.cc(518)] [QB]Process ID: 11020 Type: 3
+[0916/142052:INFO:exception_record.cc(518)] [QB]Process ID: 8332 Type: 1
+[0916/142052:INFO:exception_record.cc(518)] [QB]Process ID: 1164 Type: 3
+[0916/172946:INFO:exception_record.cc(518)] [QB]Process ID: 3292 Type: 1
+[0916/172946:INFO:exception_record.cc(518)] [QB]Process ID: 7008 Type: 3
+[0916/173616:INFO:exception_record.cc(518)] [QB]Process ID: 13664 Type: 2
+[0916/173617:INFO:http_cache_transaction.cc(72)] IgnoreZeroCacheError: 0
+[0916/174911:INFO:exception_record.cc(518)] [QB]Process ID: 8292 Type: 1
+[0916/174911:INFO:exception_record.cc(518)] [QB]Process ID: 8976 Type: 3
+[0916/175646:INFO:exception_record.cc(518)] [QB]Process ID: 1864 Type: 1
+[0916/175646:INFO:exception_record.cc(518)] [QB]Process ID: 6500 Type: 3
+[0916/175850:FATAL:url_request_context.cc(108)] Check failed: false. Leaked 1 URLRequest(s). First URL: http://qbwup.imtt.qq.com/.
+Backtrace:
+	CLInfo [0x06FB63B7+224727]
+	cef_time_to_timet [0x06F7E4C1+635473]
+	GetHandleVerifier [0x0713B48C+1569292]
+	TerminateProcessWithoutDump [0x08D8A56E+9855774]
+	IsSandboxedProcess [0x09A7B990+2542080]
+	TerminateProcessWithoutDump [0x08CC0887+9029175]
+	TerminateProcessWithoutDump [0x08CC08D5+9029253]
+	TerminateProcessWithoutDump [0x08CC0BAE+9029982]
+	TerminateProcessWithoutDump [0x08CAF2B4+8958052]
+	TerminateProcessWithoutDump [0x08CAF435+8958437]
+	TerminateProcessWithoutDump [0x08C951F5+8851365]
+	TerminateProcessWithoutDump [0x08C95438+8851944]
+	TerminateProcessWithoutDump [0x08C954CB+8852091]
+	RtlInitializeCriticalSection [0x779C9EA6+294]
+	RtlInitializeCriticalSection [0x779C9E22+162]
+	RtlReportSilentProcessExit [0x779EDA28+264]
+	RtlExitUserProcess [0x779EDAD1+129]
+	ExitProcess [0x76F19863+19]
+	(No symbol) [0x008F8AE8]
+	(No symbol) [0x008F8A7E]
+	(No symbol) [0x008F8BDF]
+	(No symbol) [0x008F30CA]
+	BaseThreadInitThunk [0x76F07C04+36]
+	RtlInitializeExceptionChain [0x779DB90F+143]
+	RtlInitializeExceptionChain [0x779DB8DA+90]
+
+[0916/175909:INFO:exception_record.cc(518)] [QB]Process ID: 8044 Type: 1
+[0916/175909:INFO:exception_record.cc(518)] [QB]Process ID: 14940 Type: 3
+[0916/180410:INFO:exception_record.cc(518)] [QB]Process ID: 13616 Type: 1
+[0916/180410:INFO:exception_record.cc(518)] [QB]Process ID: 11208 Type: 3
+[0917/103420:INFO:exception_record.cc(518)] [QB]Process ID: 19236 Type: 1
+[0917/103421:INFO:exception_record.cc(518)] [QB]Process ID: 13668 Type: 3
+[0917/173324:INFO:exception_record.cc(518)] [QB]Process ID: 11148 Type: 1
+[0917/173324:INFO:exception_record.cc(518)] [QB]Process ID: 11528 Type: 3
+[0917/173539:INFO:exception_record.cc(518)] [QB]Process ID: 16432 Type: 1
+[0917/173540:INFO:exception_record.cc(518)] [QB]Process ID: 16328 Type: 3
+[0917/173742:INFO:exception_record.cc(518)] [QB]Process ID: 8520 Type: 1
+[0917/173742:INFO:exception_record.cc(518)] [QB]Process ID: 21304 Type: 3
+[0917/174621:INFO:exception_record.cc(518)] [QB]Process ID: 5104 Type: 1
+[0917/174621:INFO:exception_record.cc(518)] [QB]Process ID: 16044 Type: 3

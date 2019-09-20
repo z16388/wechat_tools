@@ -1,0 +1,660 @@
+﻿  CAutoFunction.cpp
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(19): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(19): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(20): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(20): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(55): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(55): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(62): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“DWORD *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(66): warning C4311: “类型强制转换”: 从“char (*)[588]”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(66): warning C4302: “类型强制转换”: 从“char (*)[588]”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(68): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(69): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(71): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(72): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(79): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(81): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(81): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(81): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(82): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(82): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(83): error C2065: “sub”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(83): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(83): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(84): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(84): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(84): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(85): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(85): error C2146: 语法错误: 缺少“;”(在标识符“callAdd1”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(86): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(86): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(86): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(87): error C2065: “lea”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(87): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(87): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(88): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(88): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(88): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(89): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(89): error C2146: 语法错误: 缺少“;”(在标识符“callAdd2”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(90): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(90): error C2146: 语法错误: 缺少“;”(在标识符“esi”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(90): error C2065: “esi”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(90): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(91): error C2065: “sub”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(91): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(91): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(92): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(92): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(92): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(93): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(93): error C2146: 语法错误: 缺少“;”(在标识符“callAdd3”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(94): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(94): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(94): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(95): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(95): error C2146: 语法错误: 缺少“;”(在标识符“edx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(95): error C2065: “edx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(95): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(96): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(96): error C2146: 语法错误: 缺少“;”(在标识符“edx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(96): error C2065: “edx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(97): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(97): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(97): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(98): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(98): error C2146: 语法错误: 缺少“;”(在标识符“esi”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(98): error C2065: “esi”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(99): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(99): error C2146: 语法错误: 缺少“;”(在标识符“callAdd4”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(115): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(116): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(121): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(153): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(154): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(156): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(157): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(161): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(161): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(166): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(168): error C2065: “sub”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(168): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(168): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(169): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(169): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(169): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(169): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(170): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(170): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(170): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(171): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(171): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(171): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(172): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(172): error C2146: 语法错误: 缺少“;”(在标识符“dwCall1”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(173): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(173): error C2146: 语法错误: 缺少“;”(在标识符“dwCall2”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(174): error C2065: “add”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(174): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(174): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(190): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(192): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(195): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(215): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(215): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(233): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(234): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(240): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(242): error C2065: “sub”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(242): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(242): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(243): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(243): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(243): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(243): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(244): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(244): error C2146: 语法错误: 缺少“;”(在标识符“dword”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(244): error C2065: “dword”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(244): error C2146: 语法错误: 缺少“;”(在标识符“ptr”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(244): error C2065: “ptr”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(244): error C2146: 语法错误: 缺少“;”(在标识符“ss”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(244): error C2337: “ebp”: 未找到特性
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(244): error C2143: 语法错误: 缺少“]”(在“-”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(244): error C2059: 语法错误:“-”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(245): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(245): error C2146: 语法错误: 缺少“;”(在标识符“dwParam1”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(246): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(246): error C2146: 语法错误: 缺少“;”(在标识符“dwCall1”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(247): error C2065: “sub”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(247): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(247): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(248): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(248): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(248): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(249): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\CAutoFunction.cpp(249): fatal error C1003: 错误计数超过 100；正在停止编译
+  ChatRecord.cpp
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(21): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(21): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(24): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(24): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(52): warning C4311: “类型强制转换”: 从“void (__cdecl *)(void)”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(52): warning C4302: “类型强制转换”: 从“void (__cdecl *)(void)”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(55): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(58): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(71): error C2485: “naked”: 无法识别的扩展特性
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(74): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(79): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(79): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(79): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(82): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(82): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(82): error C2146: 语法错误: 缺少“;”(在标识符“r_esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(82): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(83): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(83): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(83): error C2146: 语法错误: 缺少“;”(在标识符“r_eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(83): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(85): error C2146: 语法错误: 缺少“;”(在标识符“pushad”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(85): error C2065: “pushad”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(86): error C2146: 语法错误: 缺少“;”(在标识符“pushfd”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(86): error C2065: “pushfd”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(87): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(91): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(93): error C2065: “popfd”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(94): error C2146: 语法错误: 缺少“;”(在标识符“popad”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(94): error C2065: “popad”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(96): error C2146: 语法错误: 缺少“;”(在标识符“jmp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(96): error C2065: “jmp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(96): error C2146: 语法错误: 缺少“;”(在标识符“RetAddr”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(97): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(113): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“DWORD **”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(115): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“DWORD *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(228): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(236): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(268): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(320): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(357): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(422): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“DWORD *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(425): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“DWORD *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRecord.cpp(425): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“WCHAR *”
+  ChatRoomOperate.cpp
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(19): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(19): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(27): warning C4311: “类型强制转换”: 从“wchar_t *”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(27): warning C4302: “类型强制转换”: 从“wchar_t *”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(28): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(29): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(33): warning C4311: “类型强制转换”: 从“wchar_t *”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(33): warning C4302: “类型强制转换”: 从“wchar_t *”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(34): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(35): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(39): warning C4311: “类型强制转换”: 从“CHAR (*)[208]”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(39): warning C4302: “类型强制转换”: 从“CHAR (*)[208]”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(44): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(47): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(47): error C2146: 语法错误: 缺少“;”(在标识符“r_esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(47): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(52): error C2146: 语法错误: 缺少“;”(在标识符“lea”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(52): error C2065: “lea”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(52): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(52): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(53): error C2146: 语法错误: 缺少“;”(在标识符“push”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(53): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(53): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(53): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(54): error C2146: 语法错误: 缺少“;”(在标识符“call”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(54): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(54): error C2146: 语法错误: 缺少“;”(在标识符“callAdrress”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(57): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(57): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(57): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(57): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(58): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(58): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(58): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(58): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(58): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(59): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(88): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(88): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(94): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(95): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(99): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(100): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(100): error C2146: 语法错误: 缺少“;”(在标识符“ebx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(100): error C2065: “ebx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(101): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(101): error C2146: 语法错误: 缺少“;”(在标识符“ebx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(101): error C2065: “ebx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(102): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(102): error C2146: 语法错误: 缺少“;”(在标识符“dwCallAddr”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(117): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(117): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(149): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(150): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(154): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(155): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(164): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(165): error C2065: “pushad”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(166): error C2065: “lea”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(166): error C2146: 语法错误: 缺少“;”(在标识符“esi”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(166): error C2065: “esi”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(167): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(167): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(167): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(167): error C2065: “esi”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(168): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(168): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(168): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(169): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(169): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(169): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(170): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(170): error C2146: 语法错误: 缺少“;”(在标识符“dwCallAddr1”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(171): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(171): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(172): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(172): error C2146: 语法错误: 缺少“;”(在标识符“dwParam”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(173): error C2065: “lea”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(173): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(173): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(174): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(174): error C2146: 语法错误: 缺少“;”(在标识符“dwCallAddr2”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(175): error C2065: “sub”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(175): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(175): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(176): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(176): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(176): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(177): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(177): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(177): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(177): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(178): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(178): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(178): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(179): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(179): error C2146: 语法错误: 缺少“;”(在标识符“dwCallAddr3”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(180): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(180): error C2146: 语法错误: 缺少“;”(在标识符“esi”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(180): error C2065: “esi”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(181): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(181): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(181): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(182): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(182): error C2146: 语法错误: 缺少“;”(在标识符“dwCallAddr4”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(183): error C2065: “popad”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(214): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(215): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(219): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(219): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(220): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(220): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(221): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(221): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(222): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(222): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(225): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(226): error C2065: “lea”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(226): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(226): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(227): error C2146: 语法错误: 缺少“;”(在标识符“call”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(227): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(227): error C2146: 语法错误: 缺少“;”(在标识符“dwCall1”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(228): error C2146: 语法错误: 缺少“;”(在标识符“lea”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(228): error C2065: “lea”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(228): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(228): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(229): error C2146: 语法错误: 缺少“;”(在标识符“push”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(229): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(229): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(229): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(230): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(230): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(230): error C2146: 语法错误: 缺少“;”(在标识符“ebx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(230): error C2065: “ebx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(231): error C2146: 语法错误: 缺少“;”(在标识符“push”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(231): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\ChatRoomOperate.cpp(232): fatal error C1003: 错误计数超过 100；正在停止编译
+  FriendList.cpp
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(103): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(103): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(118): warning C4311: “类型强制转换”: 从“void (__cdecl *)(void)”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(118): warning C4302: “类型强制转换”: 从“void (__cdecl *)(void)”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(124): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(127): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“void *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(130): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“void *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(133): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(148): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(148): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(156): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(159): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(162): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(174): error C2485: “naked”: 无法识别的扩展特性
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(177): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(180): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(180): error C2146: 语法错误: 缺少“;”(在标识符“r_esi”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(180): error C2065: “esi”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(183): error C2146: 语法错误: 缺少“;”(在标识符“pushad”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(183): error C2065: “pushad”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(184): error C2146: 语法错误: 缺少“;”(在标识符“pushf”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(184): error C2065: “pushf”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(185): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(191): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(193): error C2065: “popf”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(194): error C2146: 语法错误: 缺少“;”(在标识符“popad”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(194): error C2065: “popad”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(197): error C2146: 语法错误: 缺少“;”(在标识符“call”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(197): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(197): error C2146: 语法错误: 缺少“;”(在标识符“overWritedCallAdd”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(200): error C2146: 语法错误: 缺少“;”(在标识符“jmp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(200): error C2065: “jmp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(200): error C2146: 语法错误: 缺少“;”(在标识符“jumBackAddress”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(201): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(266): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(267): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(268): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(269): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(306): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(306): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(311): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(312): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(317): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(318): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(327): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(328): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(328): error C2146: 语法错误: 缺少“;”(在标识符“edx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(328): error C2065: “edx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(329): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(329): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(330): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(330): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(331): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(331): error C2146: 语法错误: 缺少“;”(在标识符“ebx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(331): error C2065: “ebx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(332): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(332): error C2146: 语法错误: 缺少“;”(在标识符“ebx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(332): error C2065: “ebx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(333): error C2065: “lea”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(333): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(333): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(334): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(334): error C2146: 语法错误: 缺少“;”(在标识符“dwSendCallAddr”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(335): error C2065: “add”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(335): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(335): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(351): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(351): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(363): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(364): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(368): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(369): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(375): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(376): error C2065: “pushad”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(377): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(377): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(378): error C2065: “sub”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(378): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(378): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(379): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(379): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(379): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(379): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(380): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(381): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(381): error C2146: 语法错误: 缺少“;”(在标识符“dwParams”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(382): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(382): error C2146: 语法错误: 缺少“;”(在标识符“dwCall1”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(383): error C2065: “sub”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(383): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(383): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(384): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(384): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(384): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(384): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(385): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(385): error C2146: 语法错误: 缺少“;”(在标识符“ebx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(385): error C2065: “ebx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(386): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(386): error C2146: 语法错误: 缺少“;”(在标识符“ebx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(386): error C2065: “ebx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(387): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(387): error C2146: 语法错误: 缺少“;”(在标识符“dwCall2”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(388): error C2065: “sub”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(388): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(388): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(389): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(389): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(389): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(389): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(390): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(390): error C2146: 语法错误: 缺少“;”(在标识符“pWxid”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(391): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(391): error C2146: 语法错误: 缺少“;”(在标识符“dwCall2”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(392): error C2065: “lea”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(392): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(392): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(393): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(393): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(393): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(394): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(394): error C2146: 语法错误: 缺少“;”(在标识符“dwCall3”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(395): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(395): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(395): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(395): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(396): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(396): error C2146: 语法错误: 缺少“;”(在标识符“dwCall4”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(397): error C2065: “popad”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(416): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(417): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(423): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(429): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(429): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(430): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(430): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(437): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(437): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(440): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(442): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(444): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(445): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(448): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(448): error C2146: 语法错误: 缺少“;”(在标识符“myEsp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(448): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(450): error C2065: “lea”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(450): error C2146: 语法错误: 缺少“;”(在标识符“ebx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\FriendList.cpp(450): fatal error C1003: 错误计数超过 100；正在停止编译
+  Function.cpp
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(46): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(46): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(51): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“DWORD *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(51): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“char *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(63): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“void *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(76): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“BYTE *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(82): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“char *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(88): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“DWORD *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(88): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“char *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(94): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“char *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(99): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“char *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(104): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“char *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(109): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“char *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(114): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“char *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(119): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“char *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(126): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“DWORD *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(126): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“char *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(177): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(177): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(195): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(196): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(201): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(202): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(206): warning C4311: “类型强制转换”: 从“wchar_t *”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(206): warning C4302: “类型强制转换”: 从“wchar_t *”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(209): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(211): error C2065: “sub”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(211): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(211): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(212): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(212): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(212): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(212): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(213): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(213): error C2146: 语法错误: 缺少“;”(在标识符“dword”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(213): error C2065: “dword”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(213): error C2146: 语法错误: 缺少“;”(在标识符“ptr”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(213): error C2065: “ptr”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(213): error C2146: 语法错误: 缺少“;”(在标识符“ss”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(213): error C2337: “ebp”: 未找到特性
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(213): error C2143: 语法错误: 缺少“]”(在“-”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(213): error C2059: 语法错误:“-”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(214): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(214): error C2146: 语法错误: 缺少“;”(在标识符“dwParam1”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(215): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(215): error C2146: 语法错误: 缺少“;”(在标识符“dwCall1”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(216): error C2065: “sub”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(216): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(216): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(217): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(217): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(217): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(218): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(218): error C2146: 语法错误: 缺少“;”(在标识符“dword”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(218): error C2065: “dword”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(218): error C2146: 语法错误: 缺少“;”(在标识符“ptr”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(218): error C2065: “ptr”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(218): error C2146: 语法错误: 缺少“;”(在标识符“ss”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(218): error C2337: “ebp”: 未找到特性
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(218): error C2143: 语法错误: 缺少“]”(在“-”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(218): error C2059: 语法错误:“-”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(219): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(219): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(219): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(219): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(220): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(220): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(220): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(221): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(221): error C2146: 语法错误: 缺少“;”(在标识符“dwCall2”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(222): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(222): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(223): error C2065: “sub”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(223): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(223): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(224): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(224): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(224): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(224): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(225): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(225): error C2146: 语法错误: 缺少“;”(在标识符“dword”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(225): error C2065: “dword”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(225): error C2146: 语法错误: 缺少“;”(在标识符“ptr”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(225): error C2065: “ptr”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(225): error C2146: 语法错误: 缺少“;”(在标识符“ss”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(225): error C2337: “ebp”: 未找到特性
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(225): error C2143: 语法错误: 缺少“]”(在“-”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(225): error C2059: 语法错误:“-”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(226): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(227): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(227): error C2146: 语法错误: 缺少“;”(在标识符“edi”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(227): error C2065: “edi”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(228): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(228): error C2146: 语法错误: 缺少“;”(在标识符“edi”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(228): error C2065: “edi”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(229): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(229): error C2146: 语法错误: 缺少“;”(在标识符“dwCall3”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(230): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(230): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(230): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(231): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(231): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(232): error C2065: “sub”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(232): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(232): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(233): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(233): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(233): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(233): error C2065: “esp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(234): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(234): error C2146: 语法错误: 缺少“;”(在标识符“dword”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(234): error C2065: “dword”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(234): error C2146: 语法错误: 缺少“;”(在标识符“ptr”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(234): error C2065: “ptr”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(234): error C2146: 语法错误: 缺少“;”(在标识符“ss”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(234): error C2337: “ebp”: 未找到特性
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(234): error C2143: 语法错误: 缺少“]”(在“-”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(234): error C2059: 语法错误:“-”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(235): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(235): error C2146: 语法错误: 缺少“;”(在标识符“ebx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(235): error C2065: “ebx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(236): error C2065: “push”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(236): error C2146: 语法错误: 缺少“;”(在标识符“ebx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(236): error C2065: “ebx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(237): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(237): error C2146: 语法错误: 缺少“;”(在标识符“dwCall4”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(238): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Function.cpp(238): fatal error C1003: 错误计数超过 100；正在停止编译
+  InitWeChat.cpp
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\InitWeChat.cpp(21): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\InitWeChat.cpp(21): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\InitWeChat.cpp(25): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“HMODULE”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\InitWeChat.cpp(79): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\InitWeChat.cpp(79): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\InitWeChat.cpp(84): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“DWORD *”
+  Login.cpp
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(11): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(11): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(25): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(25): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(33): warning C4311: “类型强制转换”: 从“void (__cdecl *)(void)”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(33): warning C4302: “类型强制转换”: 从“void (__cdecl *)(void)”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(39): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(42): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“void *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(45): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“void *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(48): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(60): error C2485: “naked”: 无法识别的扩展特性
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(63): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(63): error C2065: “pushad”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(64): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(64): error C2065: “pushfd”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(66): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(66): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(66): error C2146: 语法错误: 缺少“;”(在标识符“pEcx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(66): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(69): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(69): error C2065: “popfd”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(70): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(70): error C2065: “popad”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(73): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(73): error C2065: “jmp”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(73): error C2146: 语法错误: 缺少“;”(在标识符“dwRetAddr”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(89): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(92): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(108): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(133): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(133): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(141): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(144): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(147): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID *”
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(161): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(161): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(165): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(166): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(166): error C2146: 语法错误: 缺少“;”(在标识符“dwCallAddr1”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(167): error C2065: “mov”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(167): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(167): error C2065: “ecx”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(167): error C2065: “eax”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(168): error C2065: “call”: 未声明的标识符
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\Login.cpp(168): error C2146: 语法错误: 缺少“;”(在标识符“dwCallAddr2”的前面)
+  MainWindow.cpp
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\MainWindow.cpp(7): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\MainWindow.cpp(7): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\MainWindow.cpp(9): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPTHREAD_START_ROUTINE”
+  WndMsgLoop.cpp
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\WndMsgLoop.cpp(30): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\WndMsgLoop.cpp(30): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+C:\EDU\program\tools\WeChatRobot-master\源码\WeChatHelper\WeChatHelper\WndMsgLoop.cpp(34): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“DWORD *”
+  正在生成代码...
